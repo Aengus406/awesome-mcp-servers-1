@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://api.iconify.design/mdi:earth.svg?color=%231A1A1A" height="14"/> [Nordic Data](https://github.com/Aengus406/nordic-data-cli) - Global B2B intelligence for AI agents — 35M+ canonical companies across 310 jurisdictions, 1.6M sanctions entities, per-fact provenance, and 78 tools for lookup, search, KYB packs, officer networks, procurement, watchlist screening, and universal ID resolution. Free tier 100/mo, sandbox `sandbox_try_2026` (30/hr).
 
 <br />
 
